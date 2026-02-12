@@ -1,0 +1,42 @@
+# --- OS & System Files ---
+.DS_Store
+Thumbs.db
+
+# --- IDEs & Editors ---
+.vscode/
+.idea/
+*.swp
+*.swo
+.project
+.settings/
+.classpath
+
+# --- Node / React (Web Squad) ---
+node_modules/
+dist/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# --- Java / Spring Boot (Automation Squad) ---
+target/
+!.mvn/wrapper/maven-wrapper.jar
+build/
+.gradle/
+*.class
+*.jar
+*.war
+*.ear
+
+# --- Python & AI (Aditya & Data Squad) ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+ENV/
+.env
+.venv
+.python-version
+.ipynb_checkpoints/
