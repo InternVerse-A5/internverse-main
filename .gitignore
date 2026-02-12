@@ -11,7 +11,7 @@ Thumbs.db
 .settings/
 .classpath
 
-# --- Node / React (Web Squad) ---
+# --- Node / React ---
 node_modules/
 dist/
 .env
@@ -20,7 +20,7 @@ dist/
 .env.test.local
 .env.production.local
 
-# --- Java / Spring Boot (Automation Squad) ---
+# --- Java / Spring Boot  ---
 target/
 !.mvn/wrapper/maven-wrapper.jar
 build/
@@ -30,7 +30,7 @@ build/
 *.war
 *.ear
 
-# --- Python & AI (Aditya & Data Squad) ---
+# --- Python & AI  ---
 __pycache__/
 *.py[cod]
 *$py.class
